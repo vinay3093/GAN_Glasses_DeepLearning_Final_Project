@@ -15,7 +15,7 @@ Prerequisite:
 
  - execute 'python test_GAN.py'
  
- - then the result is saved in eval_0 folder.
+ - then the result is saved in results folder.
 
 3. warp.py
 - this file helps in implementing the warp operation. In other words,it helps in getting the warped Images.
